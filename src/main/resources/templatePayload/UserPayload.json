@@ -1,0 +1,16 @@
+{
+  "postId": 9,
+  "name": " ",
+  "username": " ",
+  "email": " ",
+  "address": {
+    "street": " ",
+    "suite": " ",
+    "city": " ",
+    "zipcode": " ",
+    "geo": {
+      "lat": "24.6463",
+      "lng": "-168.8889"
+    }
+  }
+}
